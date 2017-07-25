@@ -1,0 +1,21 @@
+I want to show how easy it is to start developing for the raspberry pi.
+Ranging from the basic hello world application right the way through to distributed sensing networks.
+
+About Me
+Agenda
+History of the pi
+Getting Started
+    Tour of the board
+    Operating Systems
+    Writing an Image to an SD card - Raspbian
+    Basic config
+    Hello World in Python
+GPIO
+    Something about Electronics
+    Therimine-pi
+Wireless Sensor Networks
+    Architecture
+    Azure IoT Services
+    Weather Station
+Summary
+Questions
